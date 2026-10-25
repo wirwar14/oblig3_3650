@@ -2,7 +2,7 @@
 
 A cozy countdown app for exams and appointments, set in an animated rainy evening.
 
-**Demo:** [add your VibeOff or GitHub Pages link here]
+**Demo:** (https://wirwar14.github.io/oblig3_3650/)
 
 ## What it is and why I made it
 
